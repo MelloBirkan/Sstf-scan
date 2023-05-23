@@ -49,8 +49,6 @@ int scan(vector<int> fila, int cabeca) {
         cabeca = direita[i];
     }
 
-    
-
     return distancia;
 }
 
